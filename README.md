@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/91697c86-5644-408f-b94e-b7e8894eac42)
+![image](https://github.com/user-attachments/assets/e9c7d36b-7aaf-4b99-8a31-b2275393652e)
 
 # Chat Component with Next.js and React
 
