@@ -15,6 +15,7 @@ This project is a chatAI built with Next.js and React. It allows users to intera
 ## Prerequisites
 
 - Node.js (version 14.x or later)
+- React.js and Next.js
 - npm (or yarn)
 
 ## Installation
